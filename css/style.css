@@ -115,6 +115,7 @@ main{
     padding-top: 80px;
     padding-bottom: 30px;
     text-align: center;
+    margin: 0 auto;
 }
 
 .main-exchange-container--title{
@@ -383,6 +384,36 @@ main{
     height: 20px;
     margin-bottom: 10px;
     background-image: url('../assets/icons/clock.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.product-detail--card .eye{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-bottom: 10px;
+    background-image: url('../assets/icons/eye.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.product-detail--card .dollar{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-bottom: 10px;
+    background-image: url('../assets/icons/dollar-sign.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.product-detail--card .check{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-bottom: 10px;
+    background-image: url('../assets/icons/check-circle.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
