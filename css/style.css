@@ -161,12 +161,12 @@ main{
 }
 
 .main-currency-table .currency-table--title{
-    margin-bottom: 15px;
+    margin: 0 0 15px 28px;
     font-size: 1.8rem;
     font-weight: bold;
     line-height: 2.3rem;
-    color: var(--bitcoin-orange);
-
+    color: var(--bitcoin-orange);text-align: left;
+    text-align: left;
 }
 
 .currency-table--container{
@@ -259,12 +259,12 @@ main{
 }
 
 .main-comision-table .comision-table--title{
-    margin-bottom: 15px;
+    margin: 0 0 15px 28px;
     font-size: 1.8rem;
     font-weight: bold;
     line-height: 2.3rem;
     color: var(--secundary-blue);
-
+    text-align: left;
 }
 
 .comision-table--container{
