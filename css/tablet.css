@@ -3,16 +3,19 @@
     flex-wrap: wrap;
     width: 900px;
     margin: 0 auto;
+
 }
 
 .main-table-container{
     max-width: 900px;
     margin: 0 auto;
+    overflow: hidden;
 }
 .plans-container--slider{
     justify-content: center;
     max-width: 900px;
     margin: 0 auto;
     gap: 80px;
+    overflow: hidden;
 }
 
